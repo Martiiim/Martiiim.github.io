@@ -2519,7 +2519,7 @@ html {
   }
   
   .section.hero-image {
-    background-image: linear-gradient(rgba(5, 6, 11, .2), rgba(5, 6, 11, .2) 63%, #05060b), url("https://s0.wklcdn.com/image_0/21361/60630787/40410249Master.jpg");
+    background-image: linear-gradient(rgba(5, 6, 11, .2), rgba(5, 6, 11, .2) 63%, #05060b), url("/photos/SalmarBackground.jpg");
     background-position: 0 0, 50% 0;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -2871,7 +2871,7 @@ html {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    background-image: url("https://s0.wklcdn.com/image_0/21361/60630787/40410249Master.jpg");
+    background-image: url("/photos/SalmarBackground.jpg");
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2979,7 +2979,7 @@ html {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    background-image: url("https://s0.wklcdn.com/image_0/21361/60630787/40410249Master.jpg");
+    background-image: url("/photos/SalmarBackground.jpg");
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4811,7 +4811,7 @@ html {
     }
   
     .section.hero-image {
-      background-image: linear-gradient(rgba(5, 6, 11, 0), rgba(5, 6, 11, .33) 75%, rgba(5, 6, 11, .94) 87%), url("https://s0.wklcdn.com/image_0/21361/60630787/40410249Master.jpg");
+      background-image: linear-gradient(rgba(5, 6, 11, 0), rgba(5, 6, 11, .33) 75%, rgba(5, 6, 11, .94) 87%), url("/photos/SalmarBackground.jpg");
       background-position: 0 0, 0 0;
       background-repeat: repeat, no-repeat;
       background-size: auto, 1195px;
