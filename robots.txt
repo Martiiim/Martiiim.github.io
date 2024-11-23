@@ -2,3 +2,5 @@ User-agent:
 Disallow: /googleae9c49173c6e6bf5.html
 User-agent: 
 Disallow: /CNAME
+User-agent: 
+Disallow: /sitemap.xml
