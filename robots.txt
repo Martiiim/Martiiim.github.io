@@ -2,4 +2,4 @@ User-agent:
 Disallow: /googleae9c49173c6e6bf5.html
 User-agent: 
 Disallow: /CNAME
-Sitemap: /sitemap.xml User-agent:* Disallow:
+Sitemap: /sitemap.xml 
