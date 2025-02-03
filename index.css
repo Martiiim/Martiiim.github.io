@@ -786,6 +786,7 @@ textarea.w-input, textarea.w-select {
     display: inherit !important;
   }
 
+
   .w-hidden-small {
     display: none !important;
   }
@@ -3521,6 +3522,18 @@ a {
   opacity: 1;
 }
 
+@media screen and (max-width: 768px) {
+  /* Ensure no resizing on small screens */
+  .social-link, .nav-button {
+      width: 56px; /* Fixed width on mobile */
+      height: 58px; /* Fixed height on mobile */
+  }
+  .social-link img, .nav-button img, .social-link i, .nav-button i {
+      width: 56px; /* Fixed icon size */
+      height: 58px; /* Fixed icon size */
+  }
+}
+
 .marquee-inner {
   grid-column-gap: 50px;
   align-items: center;
@@ -4121,9 +4134,6 @@ a {
     background-color: rgba(0, 0, 0, 0);
   }
 
-  .nav-link {
-    font-size: 16px;
-  }
 
   .navbar, .mail-arrow {
     display: block;
